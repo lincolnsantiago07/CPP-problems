@@ -8,7 +8,6 @@ Conseguir realizar 30 desafios (ou mais) dos mais variádos níveis (1 a 4).
  
 ## 🧠Atualizações dos problemas resolvidos:
 
- ##
  Filtros e formatos  (dificuldade: 1) ✅;
  Functions greatest of the four (dificuldade: 1) ✅;
  Changing the array in the reverser order (dificuldade: 2);
