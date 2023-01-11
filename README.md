@@ -4,9 +4,9 @@
 ##
 ## 💻 Metas e objetivos:
 
-🕐Conseguir realizar 30 desafios (ou mais) dos mais variádos níveis (1 a 4).
-🕐Refazer todo os problemas em uma outra brench.
-🕐Trocar de linguagem assim que as metas e objetivos forem alcançadas.
+🕐Conseguir realizar 30 desafios (ou mais) dos mais variádos níveis (1 a 4). <br>
+🕐Refazer todo os problemas em uma outra brench. <br>
+🕐Trocar de linguagem assim que as metas e objetivos forem alcançadas. <br>
 
 ## 
 ## 🧠Atualizações dos problemas resolvidos:
