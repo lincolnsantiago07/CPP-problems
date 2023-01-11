@@ -2,11 +2,11 @@
 
  Alguns exercícios em C++, onde eu treino programação para competição. 😁 
  
-##Metas:
+## Metas:
 
 Conseguir realizar 30 desafios (ou mais) dos mais variádos níveis (1 a 4).
  
-##🧠Atualizações dos problemas resolvidos:
+## 🧠Atualizações dos problemas resolvidos:
 
  
  Filtros e formatos  (dificuldade: 1) ✅;
@@ -15,4 +15,4 @@ Conseguir realizar 30 desafios (ou mais) dos mais variádos níveis (1 a 4).
  Variables Sized Arays (dificuldade: 2) ✅ ;
 
 
- ---------- Working ---------- 
+ ## ---------- Working ---------- 
