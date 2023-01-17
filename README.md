@@ -11,10 +11,10 @@
 ## 
 ## 🧠Atualizações dos problemas resolvidos:
 
- ✅Filtros e formatos  (dificuldade: 1); <br>
- ✅Functions greatest of the four (dificuldade: 1); <br>
- ✅Changing the array in the reverser order (dificuldade: 2); <br>
- ✅Variables Sized Arays (dificuldade: 2) ; <br>
+ ✅Hello, World! (dificuldade: 1); <br>
+ ✅Operações de Matemática Básica (dificuldade: 1); <br>
+ ✅Desafio de Condição (dificuldade: 1); <br>
+
 
  ##
  ## 📅 ---------- Working ---------- 
